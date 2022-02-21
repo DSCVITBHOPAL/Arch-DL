@@ -16,9 +16,16 @@ Existing methods of disease detection require farmers to solicit the help of gov
 ## Tech Stack Used
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![image](https://img.shields.io/badge/Seaborn-50537F?style=for-the-badge&logo=Seaborn&logoColor=white)
+![image](https://img.shields.io/badge/Tensorflow-FF7100?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/PyTorch-D04139?style=for-the-badge&logo=pytorch&logoColor=white)
+![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![image](https://img.shields.io/badge/Tensorflow_Lite-FF7100?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, keras, Scikit Learn, TensorFlow Lite, Flutter
+![image](https://img.shields.io/badge/Flutter-9697EF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 ## Dataset Used
