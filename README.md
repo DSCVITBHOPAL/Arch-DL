@@ -15,7 +15,10 @@ Existing methods of disease detection require farmers to solicit the help of gov
 
 ## Tech Stack Used
 
-Python, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, keras, Scikit Learn, TensorFlow Lite, Flutter
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, keras, Scikit Learn, TensorFlow Lite, Flutter
 
 ---
 ## Dataset Used
