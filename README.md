@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/73033596/159118381-76f065cb-2b65-4473-
 ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![image](https://img.shields.io/badge/Tensorflow_Lite-FF7100?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![image](https://img.shields.io/badge/Flutter-9697EF?style=for-the-badge&logo=flutter&logoColor=white)
+![image](https://img.shields.io/badge/Streamlit-EA6566?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Dataset Used
 [Cassava Leaves Disease Dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification)
